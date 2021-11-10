@@ -1,0 +1,22 @@
+.input-container {
+    width: 400px;
+    margin: auto;
+    /* border : 2px solid black; */
+}
+.input {
+    width: 300px;
+    margin-left: -30px;
+    height: 30px;
+}
+.add {
+    width: 100px;
+    height: 30px;
+    margin-right: -20px;
+    /* margin-left: 10px; */
+}
+.show {
+    width: 400px;
+    margin: auto;
+    background-color: skyblue;
+    border : 2px solid black;
+}
